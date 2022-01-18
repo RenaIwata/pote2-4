@@ -1,0 +1,42 @@
+.main-box {
+    background-color: rgb(43, 42, 42);
+    padding-bottom: 20px;
+}
+
+.ttl {
+    padding-left: 20%;
+    color: #fff;
+}
+
+.img-box {
+    text-align: center;
+}
+
+.img-box {
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.img-box img {
+    display: block;
+    width: 100%;
+}
+
+.slick-dots li button {
+    width: 10px;
+    height: 10px;
+}
+
+.slick-dots li button {
+    background-color: #333;
+    border-radius: 50%;
+}
+
+.slick-dots li button:before {
+    display: none;
+}
+
+.slick-dots li.slick-active button {
+    background-color: #000;
+}
